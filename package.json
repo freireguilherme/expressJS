@@ -1,0 +1,28 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program01.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "clean-css": "^4.2.3",
+    "constantinople": "^4.0.1",
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "uglify-js": "^3.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freireguilherme/expressJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freireguilherme/expressJS/issues"
+  },
+  "homepage": "https://github.com/freireguilherme/expressJS#readme"
+}
