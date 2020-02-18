@@ -7,8 +7,10 @@
     "body-parser": "^1.19.0",
     "clean-css": "^4.2.3",
     "constantinople": "^4.0.1",
+    "crypto": "^1.0.1",
     "express": "^4.17.1",
     "pug": "^2.0.4",
+    "stylus": "^0.54.7",
     "uglify-js": "^3.7.7"
   },
   "devDependencies": {},
